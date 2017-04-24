@@ -1,0 +1,16 @@
+{
+    "name": "lukesky/composer-example-package",
+    "description": "Composer example php up",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Victor Zinchenko",
+            "email": "zinchenko.us@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
