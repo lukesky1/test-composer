@@ -12,5 +12,10 @@
             "email": "zinchenko.us@gmail.com"
         }
     ],
+    "autoload":{
+        "psr-4":{
+            "Example\\": "composer-example-package\\"
+        }
+    },
     "minimum-stability": "stable"
 }
