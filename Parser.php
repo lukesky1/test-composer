@@ -1,6 +1,6 @@
 <?php
 
-require_once 'ParserInterface.php';
+namespace Lukesky\Example;
 
 /**
  * @author Student <notrealemail@gmail.com>

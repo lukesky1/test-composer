@@ -1,5 +1,7 @@
 <?php
 
+namespace Lukesky\Example;
+
 /**
  * @author Victor Zinchenko <zinchenko.us@gmail.com>
  */
