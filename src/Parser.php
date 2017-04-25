@@ -1,6 +1,6 @@
 <?php
 
-namespace Lukesky\Example;
+namespace lukesky\parser;
 
 /**
  * @author Student <notrealemail@gmail.com>
